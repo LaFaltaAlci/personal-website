@@ -1,0 +1,21 @@
+.top-container {
+    display: flex;
+    background-color: azure;
+    justify-content: space-between;
+    font-family: Geneva;
+    padding: 1%;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.nav-links {
+    display: flex;
+    font-size: 28px;
+    gap: 1em;
+}
+
+.top-container li {
+    list-style: none;
+}
