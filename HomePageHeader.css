@@ -16,6 +16,11 @@ h1 {
     gap: 1em;
 }
 
-.top-container li {
+.top-container li{
     list-style: none;
+}
+
+.top-container li a:hover {
+    background-color: lightgrey;
+    padding: 10px;
 }
