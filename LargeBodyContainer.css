@@ -1,0 +1,40 @@
+.main-container {
+    display: flex;
+    margin-top: 1%;
+    justify-content: center;
+    gap: 4em;
+    flex-wrap: wrap;
+}
+
+.main-1 {
+    order: 1;
+}
+
+.main-2 {
+    order: 0;
+    font-size: 25px;
+    align-self:baseline;
+}
+
+h2 {
+    font-size: 2em;
+    font-family: monospace;
+}
+
+.small-container {
+    display: flex;
+    width: 7000px;
+    flex-direction: column;
+
+}
+
+q {
+    font-size: 2.5em;
+    margin-left: 4%;
+}
+
+.small-container p {
+    font-size: 1.5em;
+    padding: 0.5%;
+    margin-left: 16%;
+}
