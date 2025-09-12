@@ -1,0 +1,5 @@
+.Section1-Gym {
+    display: flex;
+    flex-direction: column;
+    border: 10px black solid;
+}
