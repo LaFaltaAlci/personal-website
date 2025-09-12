@@ -1,5 +1,43 @@
+h2 {
+  margin-top: 2%;
+  margin-left: 2%;
+  font-size: 45px;
+}
+
+article {
+  font-size: 1.5em;
+}
+
+h3 {
+  padding-right: 7%;
+  font-size: 40px;
+}
+
+section {
+  border-top: 5px black solid;
+}
+
 .Section1-Gym {
-    display: flex;
-    flex-direction: column;
-    border: 10px black solid;
+  display: flex;
+  justify-content: center;
+  padding: 2%;
+  margin: 2em;
+}
+
+.Section2-Kava {
+  display: flex;
+  justify-content: center;
+  padding: 2%;
+  margin: 2em;
+}
+
+.Section2-Kava h3 {
+    flex-basis: 2%;
+}
+
+.Section3-Gaming {
+  display: flex;
+  justify-content: center;
+  padding: 2%;
+  margin: 2em;
 }
