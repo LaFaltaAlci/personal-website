@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "personal-website",
+		"path": "."
+	},
+	{
+		"name": "Saved Pictures",
+		"path": "../../Saved Pictures"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "personal-website"
+  }
+}
