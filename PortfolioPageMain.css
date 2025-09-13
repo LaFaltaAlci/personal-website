@@ -4,3 +4,50 @@ h1 {
     max-height: 35px;
     text-align: center;     
 }
+
+.Container-Section {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid green;
+
+}
+
+.Container-Section p {
+    font-size: 1.5em;
+}
+
+.thing-1 {
+    display: flex;
+    border: black solid;
+    text-align: center;
+    flex-direction: column;
+    margin: 50px;
+    background-color: lightblue;
+}
+
+.thing-2 {
+    display: flex;
+    border: black solid;
+    text-align: center;
+    flex-direction: column;
+    margin: 50px;
+    background-color: lightblue;
+}
+
+.thing-3 {
+    display: flex;
+    border: black solid;
+    text-align: center;
+    flex-direction: column;
+    margin: 50px;
+    background-color: lightblue;
+}
+
+.thing-4 {
+    display: flex;
+    border: black solid;
+    text-align: center;
+    flex-direction: column;
+    margin: 50px;
+    background-color: lightblue;
+}
