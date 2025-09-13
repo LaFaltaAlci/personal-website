@@ -1,0 +1,14 @@
+footer {
+    display: flex;
+    background-color: lightsteelblue;
+    margin-top: 17%;
+    padding: 3vh;
+    width: 100%;
+    gap: 100px;
+    justify-content: center;
+}
+
+.png-icon {
+    width:40px;
+    height: 40px;
+}
